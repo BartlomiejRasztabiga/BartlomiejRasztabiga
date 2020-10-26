@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Bartlomiej Rasztabiga's github stats](https://github-readme-stats.vercel.app/api?username=BartlomiejRasztabiga&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartlomiejRasztabiga)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Bartlomiej Rasztabiga's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Navareth)](https://github.com/anuraghazra/github-readme-stats)
