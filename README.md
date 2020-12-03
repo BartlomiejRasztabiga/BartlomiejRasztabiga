@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![Bartlomiej Rasztabiga's github stats](https://github-readme-stats.vercel.app/api?username=BartlomiejRasztabiga&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartlomiejRasztabiga&layout=compact&hide=assembly,scilab)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Bartlomiej Rasztabiga's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Navareth)](https://github.com/anuraghazra/github-readme-stats)
+[![Bartlomiej Rasztabiga's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Navareth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
